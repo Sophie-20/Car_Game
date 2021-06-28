@@ -1,0 +1,18 @@
+h1, h4 {
+    font-color: white;
+    
+}
+
+
+body{
+    background-image: ;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
